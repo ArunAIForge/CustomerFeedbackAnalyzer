@@ -1,0 +1,17 @@
+# secrets / local config
+.env
+
+# environments
+.venv/
+.venv312/
+venv/
+
+# caches and build output
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
+
+# generated outputs
+reviews_enriched.csv
+weekly_report.txt
